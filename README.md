@@ -1,0 +1,1 @@
+Extension for DynCal featuring Finnish holidays. More info [here](https://github.com/fravaccaro/harbour-dyncal/wiki/Extensions).
